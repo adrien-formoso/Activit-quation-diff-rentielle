@@ -1,1 +1,1 @@
-# Activit-quation-diff-rentielle
+# Activité équation différentielle
